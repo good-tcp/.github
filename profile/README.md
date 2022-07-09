@@ -1,12 +1,8 @@
-## Hi there 👋
+# GTCP
+The simple, and secure TCP framework
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+GTCP aims to provide the best developer experience in of the most frustrating subjects: TCP.
+- Event Based Messaging: Intuitive and readable, no one wants to spend more focus on reading code than understanding it.
+- Automatic RSA encryption for every message: Security doesn't have to be a hassle.
+- Consistent Cross Language Support: Who likes having to learn a completely different system for every language?
+- Callback Functions: No. One. Likes. Promises.
